@@ -18,3 +18,9 @@ Conceitos abordados:
 1. Clone este repositório para sua máquina local.
 2. Abra o arquivo index.html em seu navegador web.
 3. Os jogadores escolhem suas jogadas (Pedra, Papel ou Tesoura) e competem contra a escolha da máquina, com todos os elementos visualmente inspirados no famoso universo do anime Yu-Gi-Oh.
+
+## Demonstração:
+![Captura de tela 2024-11-05 184023](https://github.com/user-attachments/assets/a004560d-4862-44d5-9cad-d8c4d5c02ec4)
+
+![Captura de tela 2024-11-05 184141](https://github.com/user-attachments/assets/b7dd18aa-343b-4762-852a-e654968ed2f5)
+
